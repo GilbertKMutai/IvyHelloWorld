@@ -1,6 +1,6 @@
 namespace IvyHelloWorld.Apps;
 
-[App(icon:Icons.PartyPopper, title:"Hello")]
+[App(icon:Icons.PartyPopper, title:"Hello World")]
 public class HelloApp : ViewBase
 {
     public override object? Build()
